@@ -13,7 +13,7 @@ hydrological stress using event coincidence analysis.
 ## Repository structure
 - `code/` – analysis scripts
 - `data (read me)/` –  – description of the processed datasets (`data (read me)/README.md`). The large
-     NetCDF files are archived on Zenodo: 10.5281/zenodo.23176434
+     NetCDF files are archived on Zenodo: [10.5281/zenodo.23176433](https://doi.org/10.5281/zenodo.23176434)
 - `figures/` – final figures
 
 ## Requirements

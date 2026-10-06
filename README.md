@@ -12,7 +12,8 @@ hydrological stress using event coincidence analysis.
 
 ## Repository structure
 - `code/` – analysis scripts
-- `data/` – processed datasets used in the analysis (see `data/README.md`)
+- `data/` –  – description of the processed datasets (`data/README.md`). The large
+     NetCDF files are archived on Zenodo: [DOI to be added]
 - `figures/` – final figures
 
 ## Requirements

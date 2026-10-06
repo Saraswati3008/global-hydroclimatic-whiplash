@@ -51,7 +51,7 @@ Run the scripts in `code/` in the following order:
    - Output: [e.g. figures saved in `figures/`]
 
 ## Archived version
-10.5281/zenodo.23176434
+[10.5281/zenodo.23176434](https://doi.org/10.5281/zenodo.23176434)
 
 ## License
 Code: MIT. Data: [license].
